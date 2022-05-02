@@ -96,6 +96,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_btc",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_btc",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_btc",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 1,
              "globalId" : "mainnet_income_call_marinade",
@@ -192,6 +210,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_marinade",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_marinade",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_marinade",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 1,
              "globalId" : "mainnet_income_call_sol",
@@ -287,6 +323,24 @@
             "globalId" : "mainnet_income_call_sol",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_sol",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_sol",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_sol",
+            "start" : 1651197599,
+            "end" : 1651802399
         },
          {
              "epoch": 2,
@@ -378,6 +432,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_eth",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_eth",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_eth",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_call_ftt",
@@ -461,6 +533,24 @@
             "globalId" : "mainnet_income_call_ftt",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_ftt",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_ftt",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_ftt",
+            "start" : 1651197599,
+            "end" : 1651802399
         },
          {
              "epoch": 2,
@@ -552,6 +642,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_luna",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_luna",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_luna",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_call_mngo",
@@ -617,7 +725,19 @@
             "globalId" : "mainnet_income_call_mngo",
             "start" : 1648778399,
             "end" : 1650031199
-        },
+         },
+         {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_mngo",
+            "start" : 1649987999,
+            "end" : 1651197599
+         },
+         {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_mngo",
+            "start" : 1651197599,
+            "end" : 1652407199
+         },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_call_socean",
@@ -708,6 +828,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_socean",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_socean",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_socean",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_call_srm",
@@ -791,6 +929,24 @@
             "globalId" : "mainnet_income_call_srm",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_srm",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_srm",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_srm",
+            "start" : 1651197599,
+            "end" : 1651802399
         },
          {
              "epoch": 2,
@@ -882,6 +1038,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_btc",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_put_btc",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_btc",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_put_mngo",
@@ -947,7 +1121,19 @@
             "globalId" : "mainnet_income_put_mngo",
             "start" : 1648778399,
             "end" : 1650031199
-        },
+         },
+         {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_mngo",
+            "start" : 1649987999,
+            "end" : 1651197599
+         },
+         {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_mngo",
+            "start" : 1651197599,
+            "end" : 1652407199
+         },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_put_sol",
@@ -1038,6 +1224,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_sol",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_put_sol",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_sol",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 2,
              "globalId" : "mainnet_income_call_sbr",
@@ -1097,7 +1301,19 @@
             "globalId" : "mainnet_income_call_sbr",
             "start" : 1648778399,
             "end" : 1650031199
-        },
+         },
+         {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_sbr",
+            "start" : 1649987999,
+            "end" : 1651197599
+         },
+         {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_sbr",
+            "start" : 1651197599,
+            "end" : 1652407199
+         },
          {
              "epoch": 3,
              "globalId" : "mainnet_income_call_ray",
@@ -1157,7 +1373,19 @@
             "globalId" : "mainnet_income_call_ray",
             "start" : 1648778399,
             "end" : 1650031199
-        },
+         },
+         {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_ray",
+            "start" : 1649987999,
+            "end" : 1651197599
+         },
+         {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_ray",
+            "start" : 1651197599,
+            "end" : 1652407199
+         },
          {
              "epoch": 6,
              "globalId" : "mainnet_income_put_luna",
@@ -1223,6 +1451,24 @@
             "globalId" : "mainnet_income_put_luna",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_luna",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_put_luna",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_luna",
+            "start" : 1651197599,
+            "end" : 1651802399
         },
          {
              "epoch": 7,
@@ -1284,6 +1530,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_eth",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_put_eth",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_eth",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 8,
              "globalId" : "mainnet_income_put_tsUSDC",
@@ -1338,6 +1602,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_tsUSDC",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_put_tsUSDC",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_tsUSDC",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 10,
              "globalId" : "mainnet_income_call_sol_high",
@@ -1379,6 +1661,24 @@
             "globalId" : "mainnet_income_call_sol_high",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_sol_high",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_sol_high",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_sol_high",
+            "start" : 1651197599,
+            "end" : 1651802399
         },
          {
              "epoch": 10,
@@ -1422,6 +1722,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_put_sol_high",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_put_sol_high",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_sol_high",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 13,
              "globalId" : "mainnet_income_call_step",
@@ -1445,6 +1763,24 @@
             "globalId" : "mainnet_income_call_step",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_step",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_step",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_step",
+            "start" : 1651197599,
+            "end" : 1651802399
         },
          {
              "epoch": 14,
@@ -1464,6 +1800,24 @@
             "start" : 1649383199,
             "end" : 1649987999
         },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_avax",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_avax",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_avax",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
          {
              "epoch": 14,
              "globalId" : "mainnet_income_call_stsol",
@@ -1481,6 +1835,31 @@
             "globalId" : "mainnet_income_call_stsol",
             "start" : 1649383199,
             "end" : 1649987999
+        },
+        {
+            "epoch": 17,
+            "globalId" : "mainnet_income_call_stsol",
+            "start" : 1649987999,
+            "end" : 1650592799
+        },
+        {
+            "epoch": 18,
+            "globalId" : "mainnet_income_call_stsol",
+            "start" : 1650592799,
+            "end" : 1651197599
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_call_stsol",
+            "start" : 1651197599,
+            "end" : 1651802399
+        },
+        {
+            "epoch": 19,
+            "globalId" : "mainnet_income_put_pai",
+            "start" : 1651197599,
+            "end" : 1651802399
         }
+        
      ]
  }
