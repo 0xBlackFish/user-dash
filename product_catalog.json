@@ -1,0 +1,235 @@
+{
+    "products" : [
+        {
+            "globalId" : "mainnet_income_call_btc",
+            "product_name" : "Covered Call - BTC - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "BTC",
+            "deposited_asset" : "BTC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 1
+        },
+        {
+            "globalId" : "mainnet_income_call_marinade",
+            "product_name" : "Covered Call - mSOL - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "mSOL",
+            "deposited_asset" : "mSOL",
+            "is_high_voltage" : false,
+            "launch_epoch" : 1
+        },
+        {
+            "globalId" : "mainnet_income_call_sol",
+            "product_name" : "Covered Call - SOL - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "SOL",
+            "deposited_asset" : "SOL",
+            "is_high_voltage" : false,
+            "launch_epoch" : 1
+        },
+        {
+            "globalId" : "mainnet_income_call_eth",
+            "product_name" : "Covered Call - ETH - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "ETH",
+            "deposited_asset" : "ETH",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_call_ftt",
+            "product_name" : "Covered Call - FTT - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "FTT",
+            "deposited_asset" : "FTT",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_call_luna",
+            "product_name" : "Covered Call - LUNA - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "LUNA",
+            "deposited_asset" : "LUNA",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_call_socean",
+            "product_name" : "Covered Call - scnSOL - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "scnSOL",
+            "deposited_asset" : "scnSOL",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_call_srm",
+            "product_name" : "Covered Call - SRM - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "SRM",
+            "deposited_asset" : "SRM",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_put_btc",
+            "product_name" : "Cash Secured Put - BTC - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "BTC",
+            "deposited_asset" : "USDC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_put_sol",
+            "product_name" : "Cash Secured Put - SOL - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "SOL",
+            "deposited_asset" : "USDC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_put_luna",
+            "product_name" : "Cash Secured Put - LUNA - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "LUNA",
+            "deposited_asset" : "USDC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 6
+        },
+        {
+            "globalId" : "mainnet_income_put_eth",
+            "product_name" : "Cash Secured Put - ETH - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "ETH",
+            "deposited_asset" : "USDC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 7
+        },
+        {
+            "globalId" : "mainnet_income_put_tsUSDC",
+            "product_name" : "Cash Secured Put - tsUSDC - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "SOL",
+            "deposited_asset" : "tsUSDC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 8
+        },
+        {
+            "globalId" : "mainnet_income_call_sol_high",
+            "product_name" : "Covered Call - SOL - High Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "SOL",
+            "deposited_asset" : "SOL",
+            "is_high_voltage" : true,
+            "launch_epoch" : 10
+        },
+        {
+            "globalId" : "mainnet_income_put_sol_high",
+            "product_name" : "Cash Secured Put - SOL - High Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "SOL",
+            "deposited_asset" : "USDC",
+            "is_high_voltage" : true,
+            "launch_epoch" : 10
+        },
+        {
+            "globalId" : "mainnet_income_call_step",
+            "product_name" : "Covered Call - STEP - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "STEP",
+            "deposited_asset" : "STEP",
+            "is_high_voltage" : false,
+            "launch_epoch" : 13
+        },
+        {
+            "globalId" : "mainnet_income_call_mngo",
+            "product_name" : "Covered Call - MNGO - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "MNGO",
+            "deposited_asset" : "MNGO",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_put_mngo",
+            "product_name" : "Cash Secured Put - MNGO - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "MNGO",
+            "deposited_asset" : "USDC",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_call_sbr",
+            "product_name" : "Covered Call - SBR - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "SBR",
+            "deposited_asset" : "SBR",
+            "is_high_voltage" : false,
+            "launch_epoch" : 2
+        },
+        {
+            "globalId" : "mainnet_income_call_ray",
+            "product_name" : "Covered Call - RAY - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "RAY",
+            "deposited_asset" : "RAY",
+            "is_high_voltage" : false,
+            "launch_epoch" : 3
+        },
+        {
+            "globalId" : "mainnet_income_call_avax",
+            "product_name" : "Covered Call - AVAX - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "AVAX",
+            "deposited_asset" : "AVAX",
+            "is_high_voltage" : false,
+            "launch_epoch" : 14
+        },
+        {
+            "globalId" : "mainnet_income_call_stsol",
+            "product_name" : "Covered Call - stSOL - Low Voltage",
+            "volt_number" : 1,
+            "strategy" : "Covered Call",
+            "asset" : "stSOL",
+            "deposited_asset" : "stSOL",
+            "is_high_voltage" : false,
+            "launch_epoch" : 14
+        },
+        {
+            "globalId" : "mainnet_income_put_pai",
+            "product_name" : "Cash Secured Put - PAI - Low Voltage",
+            "volt_number" : 2,
+            "strategy" : "Cash Secured Put",
+            "asset" : "SOL",
+            "deposited_asset" : "PAI",
+            "is_high_voltage" : false,
+            "launch_epoch" : 19
+        }
+    ]
+
+}
