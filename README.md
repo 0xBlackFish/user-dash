@@ -10,13 +10,13 @@
 
 ### Desired Features -- once you claim one, please edit readme to include Grant proposal :)
 
-- Deposits and withdrawal bars (and net line) per asset (claimed: @msquaredsa-ds-dev)
+- Deposits and withdrawal bars (and net line) per asset (claimed: @0xBlackfish)
   - Per Volt and epoch
 - Distribution of users in Assets
 - Wallet share (claimed: @msquaredsa-ds-dev)
   - % of users wallet (measured in notional (USDC) or underlying asset) deposited into Friktion Volt
-- what is the daily price average in USD values (claimed: @msquaredsa-ds-dev)
-- what tokens are friktion users holding? (claimed: @msquaredsa-ds-dev)
+- what is the daily price average in USD values (claimed: @0xBlackfish)
+- what tokens are friktion users holding? (claimed: @0xBlackfish)
 - what other dapps do friktion users use?
 - what is the distribution of holdings intra-volt - by key segments and vintages
 - (low priority) Protocol revenue (fees generated) vs time
@@ -29,7 +29,7 @@ Discord contacts:
 - 0xFriktion#6762 for visualization of features and w/e product stuff
 
 ### Team
-- @msquaredsa-ds-dev
+- @0xBlackfish
 - @amarante-codes
 - @Mordant-Black
 - @alexdai186
